@@ -1,0 +1,111 @@
+Negative Log Likelihood Loss, Log Softmax Output
+######### Learning Rate = 0.01 #########
+Train 1 Error: 0.355, Error Squared: 0.435
+Trial 1 Error: 0.478, Error Squared: 0.637
+Train 2 Error: 0.351, Error Squared: 0.425
+Trial 2 Error: 0.458, Error Squared: 0.572
+Train 3 Error: 0.419, Error Squared: 0.576
+Trial 3 Error: 0.547, Error Squared: 0.801
+Train 4 Error: 0.343, Error Squared: 0.413
+Trial 4 Error: 0.463, Error Squared: 0.617
+Average Train Error: 0.367, Average Error Squared: 0.462
+Average Validate Error: 0.487, Average Error Squared: 0.657
+######### Learning Rate = 0.01 #########
+Train 1 Error: 0.357, Error Squared: 0.436
+Trial 1 Error: 0.458, Error Squared: 0.587
+Train 2 Error: 0.355, Error Squared: 0.429
+Trial 2 Error: 0.46, Error Squared: 0.56
+Train 3 Error: 0.362, Error Squared: 0.441
+Trial 3 Error: 0.45, Error Squared: 0.565
+Train 4 Error: 0.345, Error Squared: 0.419
+Trial 4 Error: 0.428, Error Squared: 0.517
+Average Train Error: 0.355, Average Error Squared: 0.431
+Average Validate Error: 0.449, Average Error Squared: 0.557
+Negative Log Likelihood Loss, Softmax Output
+(Garbage Output)
+
+Cross Entropy Loss, Log Softmax Output
+######### Learning Rate = 0.01 #########
+Train 1 Error: 0.362, Error Squared: 0.455
+Trial 1 Error: 0.445, Error Squared: 0.58
+Train 2 Error: 0.357, Error Squared: 0.438
+Trial 2 Error: 0.453, Error Squared: 0.577
+Train 3 Error: 0.387, Error Squared: 0.442
+Trial 3 Error: 0.475, Error Squared: 0.575
+Train 4 Error: 0.346, Error Squared: 0.421
+Trial 4 Error: 0.453, Error Squared: 0.587
+Average Train Error: 0.363, Average Error Squared: 0.439
+Average Validate Error: 0.457, Average Error Squared: 0.58
+######### Learning Rate = 0.01 #########
+Train 1 Error: 0.352, Error Squared: 0.43
+Trial 1 Error: 0.448, Error Squared: 0.557
+Train 2 Error: 0.472, Error Squared: 0.622
+Trial 2 Error: 0.53, Error Squared: 0.739
+Train 3 Error: 0.341, Error Squared: 0.416
+Trial 3 Error: 0.43, Error Squared: 0.555
+Train 4 Error: 0.351, Error Squared: 0.43
+Trial 4 Error: 0.468, Error Squared: 0.592
+Average Train Error: 0.379, Average Error Squared: 0.474
+Average Validate Error: 0.469, Average Error Squared: 0.611
+Cross Entropy Loss, Softmax Output
+Train 1 Error: 0.462, Error Squared: 0.583
+Trial 1 Error: 0.48, Error Squared: 0.619
+Train 2 Error: 0.393, Error Squared: 0.51
+Trial 2 Error: 0.498, Error Squared: 0.687
+Train 3 Error: 0.386, Error Squared: 0.497
+Trial 3 Error: 0.507, Error Squared: 0.711
+Train 4 Error: 0.346, Error Squared: 0.412
+Trial 4 Error: 0.433, Error Squared: 0.522
+Train 5 Error: 0.358, Error Squared: 0.433
+Trial 5 Error: 0.43, Error Squared: 0.505
+Train 6 Error: 0.34, Error Squared: 0.405
+Trial 6 Error: 0.438, Error Squared: 0.512
+Train 7 Error: 0.391, Error Squared: 0.503
+Trial 7 Error: 0.512, Error Squared: 0.721
+Train 8 Error: 0.389, Error Squared: 0.5
+Trial 8 Error: 0.505, Error Squared: 0.689
+Average Train Error: 0.383, Average Error Squared: 0.48
+Average Validate Error: 0.475, Average Error Squared: 0.621
+
+NLL Loss with log softmax appears to work the best
+######### Learning Rate = 0.005 #########
+Train 1 Error: 0.433, Error Squared: 0.509
+Trial 1 Error: 0.512, Error Squared: 0.701
+Train 2 Error: 0.359, Error Squared: 0.44
+Trial 2 Error: 0.468, Error Squared: 0.607
+Train 3 Error: 0.356, Error Squared: 0.436
+Trial 3 Error: 0.433, Error Squared: 0.532
+Train 4 Error: 0.412, Error Squared: 0.552
+Trial 4 Error: 0.512, Error Squared: 0.736
+Train 5 Error: 0.458, Error Squared: 0.577
+Trial 5 Error: 0.475, Error Squared: 0.609
+Train 6 Error: 0.355, Error Squared: 0.432
+Trial 6 Error: 0.445, Error Squared: 0.555
+Train 7 Error: 0.4, Error Squared: 0.451
+Trial 7 Error: 0.47, Error Squared: 0.58
+Train 8 Error: 0.411, Error Squared: 0.553
+Trial 8 Error: 0.542, Error Squared: 0.841
+Average Train Error: 0.398, Average Error Squared: 0.494
+Average Validate Error: 0.482, Average Error Squared: 0.645
+######### Learning Rate = 0.01 #########
+Train 1 Error: 0.343, Error Squared: 0.421
+Trial 1 Error: 0.473, Error Squared: 0.627
+Train 2 Error: 0.349, Error Squared: 0.425
+Trial 2 Error: 0.448, Error Squared: 0.567
+Train 3 Error: 0.359, Error Squared: 0.447
+Trial 3 Error: 0.475, Error Squared: 0.614
+Train 4 Error: 0.351, Error Squared: 0.427
+Trial 4 Error: 0.463, Error Squared: 0.577
+Train 5 Error: 0.354, Error Squared: 0.437
+Trial 5 Error: 0.448, Error Squared: 0.547
+Train 6 Error: 0.35, Error Squared: 0.431
+Trial 6 Error: 0.468, Error Squared: 0.602
+Train 7 Error: 0.361, Error Squared: 0.453
+Trial 7 Error: 0.435, Error Squared: 0.53
+Train 8 Error: 0.586, Error Squared: 0.882
+Trial 8 Error: 0.654, Error Squared: 1.077
+Average Train Error: 0.352, Average Error Squared: 0.434
+Average Validate Error: 0.459, Average Error Squared: 0.581
+All 0 Predictions
+Error per player: 0.654
+Error squared per player: 1.077
